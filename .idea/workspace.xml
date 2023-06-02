@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="076baa21-958d-489b-bb8b-1d8adea6a4d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/epam/Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/epam/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/epam/BinaryConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/epam/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/epam/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/epam/MagicNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/epam/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/epam/MostFrequentLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/epam/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/epam/RemoveZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/epam/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/epam/StringPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/epam/Vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/ArrayGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/ArrayListChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/GroupedInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/Hourglass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/JavaBitset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/JavaDequeue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/JavaHashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/JavaMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/JavaSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/JavaStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/ListOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/MostConcurrentLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/SubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/TagContentExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/utilities/Checker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/utilities/CustomSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/utilities/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/utilities/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/utilities2/Checker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/utilities2/Priorities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/utilities2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/learning/classes/ISuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/learning/classes/ISuperClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/learning/classes/Learning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/learning/classes/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/learning/classes/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/turing/developers/learning/other/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/turing/developers/hackerrank/TagContentExtractorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KvDCM6Q8rcM2lIJ4aZVrCXlLvE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/n1613318/OneDrive - Liberty Mutual/Documents/Repos/Turing",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.turing.developers.utilities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\n1613318\OneDrive - Liberty Mutual\Documents\Repos\Turing\src\main\java\com\turing\developers\utilities2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.turing.developers.hackerrank" />
+      <recent name="com.turing.developers" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.turing.developers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BinaryConverter">
+    <configuration name="BinaryConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.turing.developers.epam.BinaryConverter" />
+      <module name="Turing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.turing.developers.epam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MostFrequentLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.turing.developers.epam.MostFrequentLetter" />
+      <module name="Turing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.turing.developers.epam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.turing.developers.epam.Palindrome" />
+      <module name="Turing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.turing.developers.epam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.turing.developers.epam.RemoveZeros" />
+      <module name="Turing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.turing.developers.epam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.turing.developers.epam.StringPrinter" />
+      <module name="Turing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.turing.developers.epam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinaryConverter" />
+        <item itemvalue="Application.RemoveZeros" />
+        <item itemvalue="Application.MostFrequentLetter" />
+        <item itemvalue="Application.StringPrinter" />
+        <item itemvalue="Application.Palindrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="076baa21-958d-489b-bb8b-1d8adea6a4d8" name="Changes" comment="" />
+      <created>1674846037638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674846037638</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/Hourglass.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/Hourglass.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/ListOperations.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/turing/developers/hackerrank/utilities/CustomSort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Turing$JavaBitset.ic" NAME="JavaBitset Coverage Results" MODIFIED="1676905469515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.turing.developers.*</FILTER>
+    </SUITE>
+  </component>
+</project>

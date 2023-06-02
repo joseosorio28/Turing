@@ -1,0 +1,43 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+q
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(íÅÙÿÿÿÿÿ
+O
+java:S6213	":Rename this variable to not match a restricted identifier.(ôßx
+Z
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(ôßx
+T
+java:S1854/">Remove this useless assignment to local variable "outerClass".(œœ†æ
+W
+java:S1854-"<Remove this useless assignment to local variable "subClass".(˜Ý€íýÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "list".(¤Êí…ýÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "lset".(Ž­í
+R
+java:S1854"7Remove this useless assignment to local variable "set".(¡ÌË­üÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "hashtable".(íÅÙÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(À’ØÚ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶§«˜ÿÿÿÿÿ
+I
+java:S1481".Remove this unused "hashtable" local variable.(íÅÙÿÿÿÿÿ
+C
+java:S1481"(Remove this unused "set" local variable.(¡ÌË­üÿÿÿÿ
+?
+java:S1481")Remove this unused "lset" local variable.(Ž­í
+D
+java:S1481")Remove this unused "list" local variable.(¤Êí…ýÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(–±Ò’øÿÿÿÿ
+V	java:S125 "<This block of commented-out lines of code should be removed.(²…ííÿÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(–±Ò’øÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(ç³õÌüÿÿÿÿ
+H
+java:S1481-"-Remove this unused "subClass" local variable.(˜Ý€íýÿÿÿÿ
+E
+java:S1481/"/Remove this unused "outerClass" local variable.(œœ†æ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(Êö×˜
+V	java:S1251"<This block of commented-out lines of code should be removed.(˜†öîûÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Çäâ
